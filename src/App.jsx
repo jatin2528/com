@@ -6,7 +6,7 @@ import ProductDetails from './pages/ProductDetails'
 import Cart from './pages/Cart'
 import Navbar from './components/Navbar'
 import PrivateRoute from './routes/PrivateRoute'
-import './app.css'
+import './App.css'
 
 function App() {
   return (
